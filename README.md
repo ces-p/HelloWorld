@@ -1,2 +1,1 @@
-# HelloWorld
-The first hw assignment for programing2 theory
+﻿This is the first assignment for my programming 2 class. I demonstrate my knowledge of the Java programming language and print out the String “Hello World” with only the tools of a simple text editor and the computer terminal.
